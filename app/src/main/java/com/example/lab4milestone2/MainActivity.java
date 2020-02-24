@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onStatusChanged(String s, int i, Bundle bundle) {
 
+
             }
 
             @Override
